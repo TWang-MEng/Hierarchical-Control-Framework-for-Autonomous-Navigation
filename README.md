@@ -35,3 +35,4 @@ The project is being developed in structured phases, systematically transitionin
 
 ## 5. Contact
 For detailed inquiries regarding the theoretical formulations, optimization constraints, or further demonstration requests, please contact the author directly.
+Contact: wang_tao_1995@outlook.com
